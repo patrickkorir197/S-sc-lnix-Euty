@@ -1,0 +1,24 @@
+/*
+Name: Patrick Kipkemoi Korir 
+Registration no: CT101/G/25878/25
+Description: Program to find volume 
+*/
+
+#include<stdio.h>
+int main(){
+float pi , radius , height , volume;
+
+printf("enter pi : ");
+scanf("%f",&pi);
+
+printf(" enter radius:");
+scanf("%f", &radius);
+
+printf(" enter height:");
+scanf("%f", &height);
+
+volume = pi*radius*radius*height;
+printf("volume is %f ", volume);
+
+return 0;
+}
