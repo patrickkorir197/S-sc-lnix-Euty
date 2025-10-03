@@ -1,5 +1,5 @@
 /*
-Name: Patrick Kipkemoi Korir 
+Name: PATRICK KIPKEMOI KORIR 
 Registration no: CT101/G/25878/25
 Description: Program exam eligibility  
 Description:exam eligibility 
